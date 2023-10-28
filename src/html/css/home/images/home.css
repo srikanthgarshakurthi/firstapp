@@ -1,0 +1,30 @@
+body {
+margin: auto;
+}
+
+header {
+height: 60px;
+/* border: 5px solid red; */
+background-color: #3b2632;
+}
+
+#search {
+    height: 400px;
+    background-color: #98ece1;
+    background-image: url('https://i.ibb.co/yBf8FK7/food-Wallpaper.png');
+    background-repeat: no-repeat;
+    background-size: 100% 400px;
+}
+
+#quicksearch {
+    height: 600px; 
+    background-color: rgb(234, 173, 216);
+}
+
+footer {
+    height: 80px;
+    /* border: 5px double purple; */
+    background-color: #3b2632;
+}
+
+/* <a href="https://ibb.co/S7sKwHG"><img src="https://i.ibb.co/yBf8FK7/food-Wallpaper.png" alt="food-Wallpaper" border="0"></a> */
