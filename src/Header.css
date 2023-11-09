@@ -1,0 +1,15 @@
+header {
+    background-Color: teal;
+    text-align: center;
+    /* position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; */
+    /* padding: 10px; Adjust padding as needed */
+    /* z-index: 100; */
+}
+.logo {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
